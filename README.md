@@ -1,10 +1,10 @@
-### Hi there 👋
+### 你好 | 안녕 | こんにちは | Hi there | Guten Tag | Bonjour 👋
 
-:microscope: My name is **Yujie He** (in Chinese: 何宇杰), an incoming master student majoring [Robotics](https://www.epfl.ch/education/master/programs/robotics/) at [École polytechnique fédérale de Lausanne](https://epfl.ch/), Switzerland. Before that, I received the bachelor's degree in Mechanical Engineering (Mechatronics Track) with Excellent Graduate honor in 2020 from [Tongji University](https://www.tongji.edu.cn/), Shanghai, China. My current research interests mainly focus on <b>the incorporation of state-of-the-art machine learning techniques into :eye: visual perception for :robot:  robotics </b>. 
+:microscope: My name is **Yujie He** (in Chinese: 何宇杰), an incoming master student majoring [Robotics](https://www.epfl.ch/education/master/programs/robotics/) at [École polytechnique fédérale de Lausanne](https://epfl.ch/), Switzerland. My current research interests mainly focus on <b>the incorporation of state-of-the-art machine learning techniques into :eye: visual perception for :robot:  robotics </b>, so I tried to enhance coding skills everyday.
 
-:racing_car: I am a big fan of [Red Bull Racing Team](https://twitter.com/redbullracing). From 2016 to 2018, I was lucky to become the Powertrain Department Lead @[DIAN Racing](https://www.instagram.com/dianracing/), where my teammates and I co-designed, manufactured, and finally presented the amazing [DRe18](https://www.youtube.com/watch?v=bWmHDvBw1qw).
+:racing_car: I am a big fan of [Red Bull Racing Team](https://twitter.com/redbullracing). From 2016 to 2018, I was lucky to become the Powertrain Department Lead @[DIAN Racing](https://www.instagram.com/dianracing/), where my teammates and I worked hard together to present the amazing [DRe18](https://www.youtube.com/watch?v=bWmHDvBw1qw) at the race track finally.
 
-:musical_score: I am crazy about both classical mucic and KPop. Especially, I enjoyed listening to Bach's music, such as the Cello Suites, BWV 1007-1012. Besides, my biases are Yoona, Taeyeon, Jessica from **Girls' Generation**, Irene, Seulgi, Wendy, Joy, Yeri from **Red Velvet**, Nayeon, Jeongyeon, Sana, Mina from **Twice**, and Yuna, Ryujin from **ITZY**, So I am S♡NE&ReVeluv&Once&MIDZY :smiley:
+:musical_score: I am crazy about both classical mucic and KPop. Especially, I enjoyed listening to Bach's music, such as the Cello Suites, BWV 1007-1012. Besides, I am **S♡NE&ReVeluv&Once&MIDZY** :smiley:
 
 <!--
 **hibetterheyj/hibetterheyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
