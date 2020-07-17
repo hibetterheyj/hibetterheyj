@@ -1,6 +1,6 @@
 ### 你好 | 안녕 | こんにちは | Hi there | Guten Tag | Bonjour 👋
 
-:microscope: My name is **Yujie He** (in Chinese: 何宇杰), an incoming master student majoring [Robotics](https://www.epfl.ch/education/master/programs/robotics/) at [École polytechnique fédérale de Lausanne](https://epfl.ch/), Switzerland. My current research interests mainly focus on <b>the incorporation of state-of-the-art machine learning techniques into :eye: visual perception for :robot:  robotics </b>, so I tried to enhance coding skills everyday.
+:microscope: My name is **Yujie He** (in Chinese: **何宇杰**), an incoming master student majoring [Robotics](https://www.epfl.ch/education/master/programs/robotics/) at [École polytechnique fédérale de Lausanne](https://epfl.ch/), Switzerland. My current research interests mainly focus on the incorporation of state-of-the-art machine learning techniques into :eye: visual perception for :robot:  robotics , so I tried to enhance coding skills everyday.
 
 :racing_car: I am a big fan of [Red Bull Racing Team](https://twitter.com/redbullracing). From 2016 to 2018, I was lucky to become the Powertrain Department Lead @[DIAN Racing](https://www.instagram.com/dianracing/), where my teammates and I worked hard together to present the amazing [DRe18](https://www.youtube.com/watch?v=bWmHDvBw1qw) at the race track finally.
 
