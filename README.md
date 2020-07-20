@@ -11,8 +11,8 @@
 
 **🏎 Racecar**
 
-- - a big fan of [Red Bull Racing Team](https://twitter.com/redbullracing) and Max Verstappen 
-  - lucky to become the Powertrain Department Lead from 2016 to 2018 @ [DIAN Racing](https://www.instagram.com/dianracing/), where my teammates and I worked hard together to present the amazing [DRe18](https://www.youtube.com/watch?v=bWmHDvBw1qw) at the race track finally
+- a big fan of [Red Bull Racing Team](https://twitter.com/redbullracing) and Max Verstappen 
+- lucky to become the Powertrain Department Lead from 2016 to 2018 @ [DIAN Racing](https://www.instagram.com/dianracing/), where my teammates and I worked hard together to present the amazing [DRe18](https://www.youtube.com/watch?v=bWmHDvBw1qw) at the race track finally
 
 **🎼 Classical & KPop Music**
 
