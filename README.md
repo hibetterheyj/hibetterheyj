@@ -1,10 +1,26 @@
 ### 你好 | 안녕 | こんにちは | Hi there | Guten Tag | Bonjour 👋
 
-:microscope: My name is **Yujie He** (in Chinese: **何宇杰**), an incoming master student majoring [Robotics](https://www.epfl.ch/education/master/programs/robotics/) at [École polytechnique fédérale de Lausanne](https://epfl.ch/), Switzerland. My current research interests mainly focus on the incorporation of state-of-the-art machine learning techniques into :eye: visual perception for :robot:  robotics , so I tried to enhance coding skills everyday.
+#### **🔬 BASIC INFO**
 
-:racing_car: I am a big fan of [Red Bull Racing Team](https://twitter.com/redbullracing). From 2016 to 2018, I was lucky to become the Powertrain Department Lead @[DIAN Racing](https://www.instagram.com/dianracing/), where my teammates and I worked hard together to present the amazing [DRe18](https://www.youtube.com/watch?v=bWmHDvBw1qw) at the race track finally.
+- **Yujie He** (in Chinese: **何宇杰**)
+- an incoming master student majoring [Robotics](https://www.epfl.ch/education/master/programs/robotics/) at [*École polytechnique fédérale de Lausanne*](https://epfl.ch/), Switzerland
+- currently focus on the incorporation of state-of-the-art machine learning techniques into 👁 visual perception for 🤖 robotics
+- try to enhance my coding skills every day 👨‍💻
 
-:musical_score: I am crazy about both classical mucic and KPop. Especially, I enjoyed listening to Bach's music, such as the Cello Suites, BWV 1007-1012. Besides, I am **S♡NE&ReVeluv&Once&MIDZY** :smiley:
+#### 🎈 **HOBBY**
+
+- **🏎 Racecar**
+
+- - a big fan of [Red Bull Racing Team](https://twitter.com/redbullracing) and Max Verstappen 
+  - lucky to become the Powertrain Department Lead from 2016 to 2018 @ [DIAN Racing](https://www.instagram.com/dianracing/), where my teammates and I worked hard together to present the amazing [DRe18](https://www.youtube.com/watch?v=bWmHDvBw1qw) at the race track finally
+
+- **🎼 Classical & KPop Music**
+
+- - love listening to Bach's music in the morning or at night, such as the Cello Suites, BWV 1007-1012
+  - biased towards talented visuals, singers and visuals as S♡NE&ReVeluv&Once&MIDZY (just fandom names😂) 
+  - hope you enjoy the recent cross-border performance by the Seoul Philharmonic Orchestra--[*Red Flavor (Orchestra Ver.)*](https://youtu.be/9tpWTRCQ6Hg), a reinterpretation of popular summer song from the [Red Velvet](http://redvelvet.smtown.com/)!
+
+
 
 <!--
 **hibetterheyj/hibetterheyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
