@@ -9,16 +9,16 @@
 
 #### 🎈 **HOBBY**
 
-- **🏎 Racecar**
+**🏎 Racecar**
 
 - - a big fan of [Red Bull Racing Team](https://twitter.com/redbullracing) and Max Verstappen 
   - lucky to become the Powertrain Department Lead from 2016 to 2018 @ [DIAN Racing](https://www.instagram.com/dianracing/), where my teammates and I worked hard together to present the amazing [DRe18](https://www.youtube.com/watch?v=bWmHDvBw1qw) at the race track finally
 
-- **🎼 Classical & KPop Music**
+**🎼 Classical & KPop Music**
 
-- - love listening to Bach's music in the morning or at night, such as the Cello Suites, BWV 1007-1012
-  - biased towards talented visuals, singers and visuals as S♡NE&ReVeluv&Once&MIDZY (just fandom names😂) 
-  - hope you enjoy the recent cross-border performance by the Seoul Philharmonic Orchestra--[*Red Flavor (Orchestra Ver.)*](https://youtu.be/9tpWTRCQ6Hg), a reinterpretation of popular summer song from the [Red Velvet](http://redvelvet.smtown.com/)!
+- love listening to Bach's music in the morning or at night, such as the Cello Suites, BWV 1007-1012
+- biased towards talented visuals, singers and visuals as S♡NE&ReVeluv&Once&MIDZY (just fandom names😂) 
+- hope you enjoy the recent cross-border performance by the Seoul Philharmonic Orchestra--[*Red Flavor (Orchestra Ver.)*](https://youtu.be/9tpWTRCQ6Hg), a reinterpretation of popular summer song from the [Red Velvet](http://redvelvet.smtown.com/)!
 
 
 
