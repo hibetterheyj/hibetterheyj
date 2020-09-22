@@ -3,7 +3,8 @@
 #### **🔬 BASIC INFO**
 
 - **Yujie He** (in Chinese: **何宇杰**)
-- an incoming master student majoring [Robotics](https://www.epfl.ch/education/master/programs/robotics/) at [*École polytechnique fédérale de Lausanne*](https://epfl.ch/), Switzerland
+- BEng Mechanical at [*Tongji Univ.*](https://www.tongji.edu.cn/), Shanghai, China
+- [MSc Robotics](https://www.epfl.ch/education/master/programs/robotics/) at [*École polytechnique fédérale de Lausanne*](https://epfl.ch/), Switzerland
 - currently focus on the incorporation of state-of-the-art machine learning techniques into 👁 visual perception for 🤖 robotics
 - try to enhance my coding skills every day 👨‍💻
 
