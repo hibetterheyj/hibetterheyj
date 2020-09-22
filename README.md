@@ -20,7 +20,9 @@
 - biased towards talented visuals, singers and visuals as S♡NE&ReVeluv&Once&MIDZY (just fandom names😂) 
 - hope you enjoy the recent cross-border performance by the Seoul Philharmonic Orchestra--[*Red Flavor (Orchestra Ver.)*](https://youtu.be/9tpWTRCQ6Hg), a reinterpretation of popular summer song from the [Red Velvet](http://redvelvet.smtown.com/)!
 
+### Github stats
 
+![Yujie He's github stats](https://github-readme-stats.vercel.app/api?username=hibetterheyj&count_private=true&show_icons=true)
 
 <!--
 **hibetterheyj/hibetterheyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
