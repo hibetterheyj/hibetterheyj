@@ -1,41 +1,25 @@
-### 你好 | 안녕 | こんにちは | Hi there | Guten Tag | Bonjour 👋
+### 你好 | Good day | Bonjour | Guten Tag | 안녕  | こんにちは 👋
 
-#### **🔬 BASIC INFO**
+> **Yujie He** (in Chinese: **何宇杰**)
+>
+> *Major Robotics & ME. Coding Freshman. Robotics Apprentice.*
 
-- **Yujie He** (in Chinese: **何宇杰**)
-- BEng Mechanical at [*Tongji Univ.*](https://www.tongji.edu.cn/), Shanghai, China
-- [MSc Robotics](https://www.epfl.ch/education/master/programs/robotics/) at [*École polytechnique fédérale de Lausanne*](https://epfl.ch/), Switzerland
-- currently focus on the incorporation of state-of-the-art machine learning techniques into 👁 visual perception for 🤖 robotics
-- try to enhance my coding skills every day 👨‍💻
+Simply call me Jay. I ...
 
-#### 🎈 **HOBBY**
+- (am) learning to reinvent the customized research wheels.  [ 📈 **v4r-plot**](https://github.com/hibetterheyj/v4r-plot)  [🖥️ **YujieScripts**](https://github.com/hibetterheyj/YujieScripts)
 
-**🏎 Racecar**
+- (have) contributed to some cool things. **🏎 [DIANRacing](https://yujie-he.github.io/project/2018-dian-racing/)** 🛠 **[Mechatronics Modules](https://yujie-he.github.io/project/2019-tongji-ta/)**
 
-- a big fan of [Red Bull Racing Team](https://twitter.com/redbullracing) and Max Verstappen 
-- lucky to become the Powertrain Department Lead from 2016 to 2018 @ [DIAN Racing](https://www.instagram.com/dianracing/), where my teammates and I worked hard together to present the amazing [DRe18](https://www.youtube.com/watch?v=bWmHDvBw1qw) at the race track finally
+- 🎼 <u>listen classical & KPop Music</u> and 🥾 <u>Hike</u> in the free time.
 
-**🎼 Classical & KPop Music**
+  🎧 recent cross-border performance by the Seoul Philharmonic Orchestra--[*Red Flavor (Orchestra Ver.)*](https://youtu.be/9tpWTRCQ6Hg)
 
-- love listening to Bach's music in the morning or at night, such as the Cello Suites, BWV 1007-1012
-- biased towards talented visuals, singers and visuals as S♡NE&ReVeluv&Once&MIDZY (just fandom names😂) 
-- hope you enjoy the recent cross-border performance by the Seoul Philharmonic Orchestra--[*Red Flavor (Orchestra Ver.)*](https://youtu.be/9tpWTRCQ6Hg), a reinterpretation of popular summer song from the [Red Velvet](http://redvelvet.smtown.com/)!
+  🗺️ my [*Random Walk in Swiss Romandy*](https://www.google.com/maps/d/u/0/embed?mid=1fKUxvCdWM73iL1d1a3rRhtZzR_KW_GYN) map to record  my footprint
 
-### Github stats
+More about me on [Personal Website](https://yujie-he.github.io/)
 
 ![Yujie He's github stats](https://github-readme-stats.vercel.app/api?username=hibetterheyj&count_private=true&show_icons=true)
 
-<!--
-**hibetterheyj/hibetterheyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡️ Powered by HE © 2020 - 2021 | Inspired by [Alex Chi](https://skyzh.dev/)
