@@ -1,10 +1,10 @@
 ### 你好 | Good day | Bonjour | Guten Tag | 안녕  | こんにちは 👋
 
-> **Yujie He** (in Chinese: **何宇杰**)
->
-> *Major Robotics & ME. Coding Freshman. Robotics Apprentice.*
+> *Study Robotics & ME. Coding Freshman. Robotics Apprentice.*
 
-Simply call me Jay. I ...
+<img src="https://imgur.com/zPRirxo.png" alt="" width="55" align="left">
+
+My name is **Yujie He** and simply go by Jay. I ...
 
 - (am) learning to reinvent the customized research wheels.  [ 📈 **v4r-plot**](https://github.com/hibetterheyj/v4r-plot)  [🖥️ **YujieScripts**](https://github.com/hibetterheyj/YujieScripts)
 
