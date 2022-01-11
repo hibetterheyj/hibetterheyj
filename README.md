@@ -16,17 +16,17 @@ Hi, I'm **Yujie He** and simply go by Jay. I ...
   | [**Pedestrian trajectory analysis**](https://yujie-he.github.io/project/2021-qolo-pedestrian-analysis/) | [**Visual tracking for UAV**](https://yujie-he.github.io/project/2020-tracking4uav/) |
   | <img src="./gif/qolo_tracking.gif" style="zoom: 30%;" />     | <img src="./gif/tracking.gif" style="zoom: 30%;" />          |
 
-- (have) contributed to fascinating **🏎 [DIANRacing](https://yujie-he.github.io/project/2018-dian-racing/)** and 🛠 **[Mechatronics Modules](https://yujie-he.github.io/project/2019-tongji-ta/)**
+- (have) contributed to fascinating **🏎 [DIANRacing](https://yujie-he.github.io/project/2018-dian-racing/)** and 🛠 **[Mechatronics Modules](https://yujie-he.github.io/project/2019-tongji-ta/)** team
 
 - 🎼 <u>listen classical & KPop music</u>
 
-  Recommendation my bias: the recent cross-border performance by the Seoul Philharmonic Orchestra--[*Red Flavor (Orchestra Ver.)*](https://youtu.be/9tpWTRCQ6Hg)
+  Recommendation my bias: the cross-border performance by the Seoul Philharmonic Orchestra--[*Red Flavor (Orchestra Ver.)*](https://youtu.be/9tpWTRCQ6Hg)
 
-- 🥾 <u>Hike</u> in the free time.
+- 🥾 <u>hiking & phone photography</u> in the free time.
 
-  🗺️ my [*Random Walk in Switzerland*](https://www.google.com/maps/d/u/0/embed?mid=1fKUxvCdWM73iL1d1a3rRhtZzR_KW_GYN&hl=en) map to record my footprint since Sep 2020
+  🗺️ my [*Random Walk in Switzerland*](https://www.google.com/maps/d/u/0/embed?mid=1fKUxvCdWM73iL1d1a3rRhtZzR_KW_GYN&hl=en) map to record my footprint with :mountain: magnificent views since Sep 2020
 
-More about me on [Personal Website](https://yujie-he.github.io/)
+More about me on [![website](https://img.shields.io/badge/Website-yujie--he.github.io-informational)](https://yujie-he.github.io/) [![Twitter: YujieHeRobotics](https://img.shields.io/twitter/follow/YujieHeRobotics)](https://twitter.com/YujieHeRobotics) [![YouTube: Yujie He](https://img.shields.io/youtube/channel/views/UCGpK01NL0j3RkXpsODXm-Dg?label=Yujie%20He)](https://www.youtube.com/channel/UCGpK01NL0j3RkXpsODXm-Dg) [![ins-philharmonic_he](https://img.shields.io/badge/philharmonic_he--000?style=social&logo=instagram)](https://www.instagram.com/philharmonic_he/)
 
 ![Yujie He's github stats](https://github-readme-stats.vercel.app/api?username=hibetterheyj&count_private=true&show_icons=true)
 
