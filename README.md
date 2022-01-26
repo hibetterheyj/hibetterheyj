@@ -13,7 +13,7 @@ Hi, I'm **Yujie He** and simply go by Jay. I ...
   | [VIsual odometry](https://github.com/hibetterheyj/Visual-Odometry-Pipeline) | [Crazyflie autonomous navigation](https://github.com/hibetterheyj/Crazyflie_Auto_Navigation_Landing) |
   | ------------------------------------------------------------ | ------------------------------------------------------------ |
   | <img src="./gif/lausanne_center_nav.gif" alt="vo_lausanne_center_nav" style="zoom: 30%;" /> | <img src="./gif/cf_land.gif" alt="crazyflie" style="zoom: 30%;" /> |
-  | [**Pedestrian trajectory analysis**](https://yujie-he.github.io/project/2021-qolo-pedestrian-analysis/) | [**Visual tracking for UAV**](https://yujie-he.github.io/project/2020-tracking4uav/) |
+  | [**Pedestrian trajectory analysis**](https://github.com/epfl-lasa/crowdbot-evaluation-tools) | [**Visual tracking for UAV**](https://yujie-he.github.io/project/2020-tracking4uav/) |
   | <img src="./gif/qolo_tracking.gif" style="zoom: 30%;" />     | <img src="./gif/tracking.gif" style="zoom: 30%;" />          |
 
 - (have) contributed to fascinating **🏎 [DIANRacing](https://yujie-he.github.io/project/2018-dian-racing/)** and 🛠 **[Mechatronics Modules](https://yujie-he.github.io/project/2019-tongji-ta/)** team
